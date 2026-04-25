@@ -27,7 +27,7 @@ form:
     admin_font_size:
       type: select
       label: Admin Font Size
-      help: 'Adjust the Admin Panel font size to suit your reading comfort.'
+      help: 'Adjust the Admin Panel font size for improved readability.'
       default: large
       options:
         default: 'Default (no changes)'

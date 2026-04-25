@@ -7,7 +7,7 @@ A simple plugin to adjust the font size in the Grav Admin Panel, supporting both
 | Setting | Default | Description |
 |---------|---------|-------------|
 | Plugin Status | Enabled | Enable or disable the plugin |
-| Admin Font Size | Large | Font size scale for the Admin Panel body, form elements, toolbar, and Editor Pro. Options: Default (no changes), Large, Larger |
+| Admin Font Size | Slightly Larger | Font size scale for the Admin Panel body, form elements, toolbar, and Editor Pro. Options: Default (no changes), Slightly Larger, Moderately Larger, Much Larger |
 
 ## Installation
 

@@ -7,7 +7,7 @@ author:
   email: paul@hibbittsdesign.org
 homepage: https://github.com/paulhibbitts/grav-plugin-admin-font-size
 docs: https://github.com/paulhibbitts/grav-plugin-admin-font-size/blob/main/README.md
-keywords: grav, admin, font, size, typography, readability, accessibility
+keywords: grav, admin, font, size, typography, readability
 bugs: https://github.com/paulhibbitts/grav-plugin-admin-font-size/issues
 
 form:
@@ -27,9 +27,10 @@ form:
     admin_font_size:
       type: select
       label: Admin Font Size
-      help: 'Choose the font size scale for the Admin Panel body, form elements, toolbar, and Editor Pro.'
+      help: 'Adjust the Admin Panel font size to suit your reading comfort.'
       default: large
       options:
         default: 'Default (no changes)'
-        large: Large
-        larger: Larger
+        large: 'Slightly Larger'
+        larger: 'Moderately Larger'
+        largest: 'Much Larger'

@@ -8,7 +8,7 @@ author:
 homepage: https://github.com/paulhibbitts/grav-plugin-admin-font-size
 docs: https://github.com/paulhibbitts/grav-plugin-admin-font-size/blob/main/README.md
 keywords: grav, admin, font, size, typography, readability, accessibility
-bugs: https://github.com/paulhibbitts/grav-plugin-admin-helios-refreshgrav-plugin-admin-font-size
+bugs: https://github.com/paulhibbitts/grav-plugin-admin-font-size/issues
 
 form:
   validation: strict

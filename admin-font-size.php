@@ -47,7 +47,7 @@ class AdminFontSizePlugin extends Plugin
 
     public function onPagesInitializedAdmin2(): void
     {
-        $fontSize = $this->config->get('plugins.admin-font-size.admin_font_size', 'larger');
+        $fontSize = $this->config->get('plugins.admin-font-size.admin_font_size', 'large');
         if ($fontSize === 'default') {
             return;
         }
@@ -66,7 +66,7 @@ class AdminFontSizePlugin extends Plugin
 
     public function onOutputGeneratedAdmin1($event): void
     {
-        $fontSize = $this->config->get('plugins.admin-font-size.admin_font_size', 'larger');
+        $fontSize = $this->config->get('plugins.admin-font-size.admin_font_size', 'large');
         if ($fontSize === 'default') {
             return;
         }

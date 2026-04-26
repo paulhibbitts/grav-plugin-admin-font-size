@@ -28,8 +28,8 @@ form:
       type: select
       label: Admin Font Size
       help: 'Adjust the Admin Panel font size for improved readability.'
-      default: larger
+      default: large
       options:
         default: 'Default (no changes)'
+        large: Large
         larger: Larger
-        largest: 'Much Larger'
